@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/jUFmcSz_d.webp?maxwidth=760&fidelity=grand">
+<img src="https://i.imgur.com/jUFmcSz_d.webp?maxwidth=300&fidelity=grand">
 
 ### 🐅 Hey, there!🖐  This is my representation 🌓 
 ### Thanks for coming 🙋 
