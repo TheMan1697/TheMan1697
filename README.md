@@ -1,6 +1,6 @@
-<img src="https://i.imgur.com/jUFmcSz_d.webp?maxwidth=1&fidelity=grand">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=f7bb14&height=180&section=header&text=The%20Man🐅&fontSize=90" />
 
-### 🐅 Hey, there!🖐  This is my representation 🌓 
+### Hey, there!🖐  This is my representation 🌓 
 ### Thanks for coming 🙋 
 
 
