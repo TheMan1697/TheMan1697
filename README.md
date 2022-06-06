@@ -1,6 +1,7 @@
+<img src="https://i.imgur.com/jUFmcSz_d.webp?maxwidth=3&fidelity=grand">
 ### 🐅 Hey, there!🖐  This is my representation 🌓 
 ### Thanks for coming 🙋 
-<img src="https://i.imgur.com/jUFmcSz_d.webp?maxwidth=10&fidelity=grand">
+
 
 <!--
 **TheMan1697/TheMan1697** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
