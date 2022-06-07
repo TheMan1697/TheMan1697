@@ -1,9 +1,22 @@
-<img src="https://3.bp.blogspot.com/-UBItpkh-WsY/X8iWLccM6oI/AAAAAAAAFuI/wRl4i0pXHrYzrttu_YmW2yVn0Btg21OSACNcBGAsYHQ/w919/the-mandalorian-din-djarin-baby-yoda-grogu-uhdpaper.com-4K-8.1994-wp.thumbnail.jpg">
+<p align=center><img src="https://3.bp.blogspot.com/-UBItpkh-WsY/X8iWLccM6oI/AAAAAAAAFuI/wRl4i0pXHrYzrttu_YmW2yVn0Btg21OSACNcBGAsYHQ/w919/the-mandalorian-din-djarin-baby-yoda-grogu-uhdpaper.com-4K-8.1994-wp.thumbnail.jpg"></p>
 
 
-### Hey, there!🖐  This is my representation 🌓 
-### Thanks for coming 🙋 
+### 
 
+<h3 align=center> 
+<br> Hey, there!🖐  This is my representation 🌓 </h3><h3 align=center>
+<bt> Thanks for coming 🙋
+</h3>
+<br>
+<br>
+
+<div align=center>
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMan1697&layout=compact&)](https://github.com/TheMan1697/github-readme-stats)
+	
+[![The Man's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMan1697&&show_icons=true&theme=buefy)](https://github.com/TheMan1697/github-readme-stats)
+	
+</div>
 <br>
 <div align=center>
     <h3>📚 Tech Stack 📚</h3>
