@@ -54,6 +54,10 @@
     <a href="mailto:bibibik1697@gmail.com">
 <img src="https://camo.githubusercontent.com/4fcb210410d0202f918b7b1575eb06bb99f098ac1a2b91bb66201bbdfa7ba578/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d6431343833363f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a696e613933373740676d61696c2e636f6d" data-canonical-src="https://img.shields.io/badge/Gmail-d14836?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:bibibik1697@gmail.com" style="max-width: 100%;">
     </a>
+	<a href="https://silly.monster" align=center>
+	<img src="http://img.shields.io/badge/-TheMan-dcb386?style=flat&logo=ReverbNation&logoColor=black&link=https://silly.monster/"
+	 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 </div>
 <br>
 <div align=center>
