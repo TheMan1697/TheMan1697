@@ -65,7 +65,7 @@
 </div>
 <br>
 <div align=center>
-  <img src="https://i.pinimg.com/564x/28/31/50/28315026028037d9ec0ffff5bbafa205.jpg" style="height:345px">
+  <img src="https://i.pinimg.com/564x/28/31/50/28315026028037d9ec0ffff5bbafa205.jpg" style="height:325px">
 </div>
 
 <!--
