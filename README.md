@@ -51,10 +51,10 @@
     <p>🌓 SNS & Portfolio 🌓</p>
 </div>
 <div align=center>
-	<a href="https://gratis-kilometer-1b7.notion.site/The-Man-72d0117230204745a195457587b3c3a0" target="_black" align=center>
+	<a href="https://gratis-kilometer-1b7.notion.site/The-Man-72d0117230204745a195457587b3c3a0" align=center>
 	<img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=Notion&logoColor=black" style="height : 21px; width : 75px">
 </a>
-	<a href="https://silly.monster" target="_black" align=center>
+	<a href="https://silly.monster"  align=center>
 	<img src="http://img.shields.io/badge/-TheMan-dcb386?style=flat&logo=ReverbNation&logoColor=black&link=https://silly.monster/"
 	 style="height : auto; margin-left : 10px; margin-right : 10px; width:75px; height :21px;"/>
 </a>
@@ -65,7 +65,7 @@
 </div>
 <br>
 <div align=center>
-  <img src="https://i.pinimg.com/564x/28/31/50/28315026028037d9ec0ffff5bbafa205.jpg" style="height:325px">
+  <img src="https://i.pinimg.com/564x/28/31/50/28315026028037d9ec0ffff5bbafa205.jpg" style="height:315px">
 </div>
 
 <!--
