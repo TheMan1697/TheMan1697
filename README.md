@@ -50,8 +50,8 @@
 	<a href="https://gratis-kilometer-1b7.notion.site/The-Man-72d0117230204745a195457587b3c3a0" align=center>
 	<img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=Notion&logoColor=black" style="height : 21px; width : 75px">
 </a>
-	<a href="https://silly.monster"  align=center>
-	<img src="http://img.shields.io/badge/-TheMan-dcb386?style=flat&logo=ReverbNation&logoColor=black&link=https://silly.monster/"
+	<a href="https://theworldaswillandidea.tistory.com"  align=center>
+	<img src="http://img.shields.io/badge/-Tistory-dcb386?style=flat&logo=ReverbNation&logoColor=black&link=https://silly.monster/"
 	 style="height : auto; margin-left : 10px; margin-right : 10px; width:75px; height :21px;"/>
 </a>
 	    <a href="mailto:bibibik1697@gmail.com">
