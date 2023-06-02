@@ -9,9 +9,7 @@
 
 <div align=center>
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMan1697&layout=compact&)](https://github.com/TheMan1697/github-readme-stats)
-	
-[![The Man's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMan1697&&show_icons=true&theme=buefy)](https://github.com/TheMan1697/github-readme-stats)
+![](./profile-3d-contrib/profile-night-view.svg)
 
 </div>
 <div align=center>
