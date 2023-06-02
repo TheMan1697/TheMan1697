@@ -2,8 +2,8 @@
 
 ### 
 <h3 align=center><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white"></h3>
-<h3 align=center> Hey, there! I am Rustacean. This is my representation 🌓 </h3>
-<h3 align=center>Thanks for coming 🙋
+<h3 align=center> Hello, I am Rustacean.</h3>
+<h3 align=center>This is my representation 🌓 </h3>
 </h3>
 <p style="line-height:30%"></p> 
 
