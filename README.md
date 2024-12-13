@@ -1,7 +1,6 @@
 <p align=center><img src="https://3.bp.blogspot.com/-UBItpkh-WsY/X8iWLccM6oI/AAAAAAAAFuI/wRl4i0pXHrYzrttu_YmW2yVn0Btg21OSACNcBGAsYHQ/w919/the-mandalorian-din-djarin-baby-yoda-grogu-uhdpaper.com-4K-8.1994-wp.thumbnail.jpg"></p>
 
 ### 
-<h3 align=center><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white"></h3>
 <h3 align=center> Hello</h3>
 <h3 align=center>This is my representation 🌓 </h3>
 </h3>
