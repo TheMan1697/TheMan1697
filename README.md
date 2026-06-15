@@ -1,47 +1,39 @@
-<p align=center><img src="https://3.bp.blogspot.com/-UBItpkh-WsY/X8iWLccM6oI/AAAAAAAAFuI/wRl4i0pXHrYzrttu_YmW2yVn0Btg21OSACNcBGAsYHQ/w919/the-mandalorian-din-djarin-baby-yoda-grogu-uhdpaper.com-4K-8.1994-wp.thumbnail.jpg"></p>
+# Sanghyun Kim
 
-### 
-<h3 align=center> Hello</h3>
-<h3 align=center>This is my representation 🌓 </h3>
-</h3>
-<p style="line-height:30%"></p> 
+Backend and infrastructure-focused developer interested in building reliable services, cloud-native systems, and practical web applications.
 
-<div align=center>
-	
-![](./profile-3d-contrib/profile-night-view.svg)
+I have worked with Java, Spring Boot, microservice architecture, Kubernetes, Docker, CI/CD pipelines, and observability tools.
+My main interest is turning backend systems into production-ready services that are maintainable, observable, and deployable.
 
-</div>
-<p style="line-height:10%"></p> 
-<div align=center>
-<p style="line-height:10%"></p> 
-<div align=center>
-    <p>🌓 Blog 🌓</p>
-</div>
-<div align=center>
-	<a href="https://theworldaswillandidea.tistory.com"  align=center>
-	<img src="http://img.shields.io/badge/-Tistory-dcb386?style=flat&logo=ReverbNation&logoColor=black&link=https://silly.monster/"
-	 style="height : auto; margin-left : 10px; margin-right : 10px; width:75px; height :21px;"/>
-</a>
-	
-</div>
-<p style="line-height:10%"></p> 
-<div align=center>
-  <img src="https://i.pinimg.com/564x/28/31/50/28315026028037d9ec0ffff5bbafa205.jpg" style="width: 325px;height:300px">
-</div>
+## Focus Areas
 
-<!--
-**TheMan1697/TheMan1697** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Backend development with Java and Spring Boot
+* Microservice architecture and service-to-service communication
+* Kubernetes-based deployment and operations
+* CI/CD automation and GitOps workflows
+* Database-backed application design
+* Observability, logging, and production troubleshooting
 
-Here are some ideas to get you started:
+### Iorl - WhatChar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A small browser-based Unicode character checker built as a personal web utility.
 
+[isitiorl.com](https://isitiorl.com)
 
+It identifies confusing lookalike characters such as `I`, `l`, `1`, `O`, `0`, homoglyphs, fullwidth forms, punctuation variants, and invisible spaces.
+
+* Built with Astro, React, and TypeScript
+* Runs entirely in the browser
+* Deployed on Cloudflare Pages
+* Optimized for mobile and SEO
+* Supports multiple localized pages
+
+## Writing
+
+I occasionally write about development, ideas, and personal notes.
+
+[theworldaswillandidea.tistory.com](https://theworldaswillandidea.tistory.com)
+
+## Contact
+
+* Gmail: bibibik1697@gmail.com
