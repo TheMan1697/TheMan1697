@@ -7,12 +7,14 @@ My main interest is turning backend systems into production-ready services that 
 
 ## Focus Areas
 
-* Backend development with Java and Spring Boot
-* Microservice architecture and service-to-service communication
-* Kubernetes-based deployment and operations
-* CI/CD automation and GitOps workflows
-* Database-backed application design
-* Observability, logging, and production troubleshooting
+- Backend development with Java and Spring Boot
+- Microservice architecture and service-to-service communication
+- Kubernetes-based deployment and operations
+- CI/CD automation and GitOps workflows
+- Database-backed application design
+- Observability, logging, and production troubleshooting
+
+## Projects
 
 ### Iorl - WhatChar
 
@@ -22,11 +24,25 @@ A small browser-based Unicode character checker built as a personal web utility.
 
 It identifies confusing lookalike characters such as `I`, `l`, `1`, `O`, `0`, homoglyphs, fullwidth forms, punctuation variants, and invisible spaces.
 
-* Built with Astro, React, and TypeScript
-* Runs entirely in the browser
-* Deployed on Cloudflare Pages
-* Optimized for mobile and SEO
-* Supports multiple localized pages
+- Built with Astro, React, and TypeScript
+- Runs entirely in the browser
+- Deployed on Cloudflare Pages
+- Optimized for mobile and SEO
+- Supports multiple localized pages
+
+### Diff.Dot
+
+A custom web studio for building websites, portfolios, and practical web solutions for individuals and small businesses.
+
+[diffdot-site.pages.dev](https://diffdot-site.pages.dev/)
+
+The service focuses on turning the characteristics of each business or individual into a distinct web presence, from simple landing pages to functional web applications.
+
+- Custom responsive website and portfolio development
+- Business websites designed around customer conversion
+- Practical web solutions such as reservations, applications, and admin pages
+- Mobile-first design and production deployment
+- End-to-end workflow from design to development and launch
 
 ## Writing
 
@@ -36,4 +52,4 @@ I occasionally write about development, ideas, and personal notes.
 
 ## Contact
 
-* Gmail: bibibik1697@gmail.com
+- Gmail: [bibibik1697@gmail.com](mailto:bibibik1697@gmail.com)
